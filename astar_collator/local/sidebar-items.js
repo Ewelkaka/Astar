@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["development_config","new_partial","start_node"],"struct":["RuntimeApi"],"type":["ChainSpec","HostFunctions"]};

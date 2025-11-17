@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Subcommand"],"fn":["run"],"mod":["local","parachain"],"struct":["Cli","RelayChainCli"],"trait":["IdentifyChainNetworkBackend"]};
